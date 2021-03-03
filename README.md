@@ -1,1 +1,1 @@
-# Minimal Flash/Alert Message
+# Minimal Flash/Alert Message UI
