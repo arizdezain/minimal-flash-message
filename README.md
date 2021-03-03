@@ -1,1 +1,1 @@
-# minimal-flash-message
+# Minimal Flash/Alert Message
